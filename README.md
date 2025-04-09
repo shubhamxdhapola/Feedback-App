@@ -21,7 +21,7 @@ A full-stack **Feedback Web App** where users can post their feedback about a pr
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/feedback-app.git
+git clone https://github.com/shubhamxdhapola/feedback-app.git
 cd feedback-app
 
 ### 2. Setup Frontend
@@ -30,7 +30,7 @@ npm install
 npm run dev
 
 ### 2. Setup Backend
-cd frontend
+cd backend
 npm install
 npm run dev
 
