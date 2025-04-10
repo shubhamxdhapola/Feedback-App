@@ -42,7 +42,7 @@ const App = () => {
       }
     }
     getUserInfo();
-  },[dispatch]);
+  },[]);
 
   if (loading) {
     return (
